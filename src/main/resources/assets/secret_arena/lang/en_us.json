@@ -1,13 +1,13 @@
 {
-  "itemgroup.secret_arena_items_group": "sekretna arena",
-  "item.secret_arena.crowbar": "łom",
-  "block.secret_arena.cone": "stożek",
+  "itemgroup.secret_arena_items_group": "Sekretna arena",
+  "item.secret_arena.crowbar": "Łom",
+  "block.secret_arena.cone": "Stożek",
   "block.secret_arena.lunaplush": "Lunaplushak",
-  "block.secret_arena.wood_crate": "drewnianą skrzynia",
+  "block.secret_arena.wood_crate": "Drewnianą skrzynia",
   "block.secret_arena.checker": "Płytki szachowe",
   "block.secret_arena.checker_slab": "Płytki szachowe slab",
   "block.secret_arena.checker_stairs": "Płytki szachowe Schody",
-  "block.secret_arena.dev_orange": "pomarańczowe płytki",
-  "block.secret_arena.dev_gray": "szare płytki",
+  "block.secret_arena.dev_orange": "Pomarańczowe płytki",
+  "block.secret_arena.dev_gray": "Szare płytki",
   "biome.secret_arena.white_void": "Biała Próżnia"
 }
