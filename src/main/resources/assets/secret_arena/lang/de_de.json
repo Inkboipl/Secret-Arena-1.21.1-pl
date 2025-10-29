@@ -1,0 +1,13 @@
+{
+  "itemgroup.secret_arena_items_group": "Geheime Arena",
+  "item.secret_arena.crowbar": "Brecheisen",
+  "block.secret_arena.cone": "Kegel",
+  "block.secret_arena.lunaplush": "LunaPlüsch",
+  "block.secret_arena.wood_crate": "Holzkiste",
+  "block.secret_arena.checker": "Schachbrettfliesen",
+  "block.secret_arena.checker_slab": "Schachbrettfliesen Halbblock",
+  "block.secret_arena.checker_stairs": "Schachbrettfliesen Treppen",
+  "block.secret_arena.dev_orange": "Orange Fliesen",
+  "block.secret_arena.dev_gray": "Graue Fliesen",
+  "biome.secret_arena.white_void": "Weiße Leere"
+}
