@@ -3,10 +3,10 @@
   "item.secret_arena.crowbar": "Łom",
   "block.secret_arena.cone": "Stożek",
   "block.secret_arena.lunaplush": "Lunaplushak",
-  "block.secret_arena.wood_crate": "Drewnianą Skrzynia",
+  "block.secret_arena.wood_crate": "Drewniana Skrzynia",
   "block.secret_arena.checker": "Płytki Szachowe",
-  "block.secret_arena.checker_slab": "Płytki Szachowe Płyta",
-  "block.secret_arena.checker_stairs": "Płytki Szachowe Schody",
+  "block.secret_arena.checker_slab": "Płyta Szachowych Płytek",
+  "block.secret_arena.checker_stairs": "Schody Szachowych Płytek",
   "block.secret_arena.dev_orange": "Pomarańczowe Płytki",
   "block.secret_arena.dev_gray": "Szare Płytki",
   "biome.secret_arena.white_void": "Biała Próżnia"
