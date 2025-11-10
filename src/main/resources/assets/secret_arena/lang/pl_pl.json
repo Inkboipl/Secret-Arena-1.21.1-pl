@@ -7,7 +7,13 @@
   "block.secret_arena.checker": "Płytki Szachowe",
   "block.secret_arena.checker_slab": "Płyta Szachowych Płytek",
   "block.secret_arena.checker_stairs": "Schody Szachowych Płytek",
+  "block.secret_arena.missing": "Płytki Brakującej Tekstury",
+  "block.secret_arena.missing_slab": "Płyta Płytek Brakującej Tekstury",
+  "block.secret_arena.missing_stairs": "Schody Płytek Brakującej Tekstury",
+  "block.secret_arena.missing_wall": "Ściana Płytek Brakującej Tekstury",
   "block.secret_arena.dev_orange": "Pomarańczowe Płytki",
   "block.secret_arena.dev_gray": "Szare Płytki",
-  "biome.secret_arena.white_void": "Biała Próżnia"
+  "biome.secret_arena.light_void": "Jasna Pustka",
+  "biome.secret_arena.dark_void": "Ciemna Pustka",
+  "effect.secret_arena.seasickness": "Choroba morska"
 }
